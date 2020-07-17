@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am interested in distributed systems and storage systems.
+- 🔭 I am interested in distributed systems, storage systems and cloud-native ecosystem.
 - 🌱 I use many languages at work, e.g. Go, Python, Javascript, Java, PHP. I prefer Go the most with no doubt.
 - 📚 I’m currently learning rust language.
 - 👯 I spend most of my work time on kubernetes.
