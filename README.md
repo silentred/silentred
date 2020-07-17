@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-A gopher lost his way in the binary world.
-
 - 🔭 I am interested in distrubted systems and storage systems.
 - 🌱 I use many languages at work, e.g. Go, Python, Javascript, Java, PHP. I prefer Go the most with no doubt.
 - 📚 I’m currently learning rust language.
