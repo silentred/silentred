@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am interested in distributed systems, storage systems and cloud-native ecosystem.
-- 🌱 I use many languages at work, e.g. Go, Python, Javascript, Java, PHP. I prefer Go the most with no doubt.
+- 🌱 I use many languages at work, e.g. Go, Python, Javascript, Java. I prefer Go the most with no doubt.
 - 📚 I’m currently learning rust language.
 - 👯 I spend most of my work time on kubernetes.
 - 📫 How to reach me: my gmail is silentred3
